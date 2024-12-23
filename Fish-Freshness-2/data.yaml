@@ -1,13 +1,1 @@
-names:
-- Fresh
-- Non-Fresh
-nc: 2
-roboflow:
-  license: CC BY 4.0
-  project: fish-freshness-qpzvl
-  url: https://universe.roboflow.com/college-zve4s/fish-freshness-qpzvl/dataset/2
-  version: 2
-  workspace: college-zve4s
-test: test/images
-train: train/images
-val: valid/images
+
