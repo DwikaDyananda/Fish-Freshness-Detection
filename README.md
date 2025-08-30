@@ -8,7 +8,7 @@ This project focuses on detecting fish freshness using YOLOv8, based on visual i
 - Can be integrated into real-time detection systems.
 
 ## Tech Stack
-- YOLOv8 (Ultralytics)
+- YOLOv8
 - Python
 - OpenCV
-- Pandas / NumPy
+- Pandas
